@@ -24,19 +24,19 @@ Secondary tags: `big hair`, `short hair`, `long hair`, `absurdly long hair`
 
 ![XYZ Plot](2.0/xyz0.png)
 
-#### 1.0
+#### v1.0
 
 * Release
 
-#### 1.1
+#### v1.1
 
 * Reduced overfitting on red hair
 * Reduced overfitting on large breasts
 
-#### 2.0
+#### v2.0
 
 * Open-sourced training data
-* New base model - f3e
+* New base model - [f3e](https://civitai.com/models/160315)
 * Less overfitting on style and backgrounds
 * Pruned unecessary UNet blocks
 * Smaller file size - 3Mb down from 15Mb
