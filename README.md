@@ -44,7 +44,7 @@ Secondary tags: `big hair`, `short hair`, `long hair`, `absurdly long hair`
 ## Training
 
 * Load config into [Kohya SS](https://github.com/bmaltais/kohya_ss)
-* Download a base model. I use a custom mix that I created called [f3e - Forge](TODO)
+* Download a base model. I use a custom mix that I created called [f3e - Forge](https://civitai.com/models/160315)
 * Update paths for the model, image, output and logging folders
 * Adjust the batch size for your GPU
 
